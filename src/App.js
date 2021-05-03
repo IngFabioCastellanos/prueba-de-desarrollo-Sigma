@@ -85,7 +85,7 @@ function App() {
               <input
                 className="w-11/12 px-4 py-2 mt-2 mb-4 text-sm font-bold text-gray-400 border rounded-md focus:outline-none"
                 type="text"
-                placeholder="Pepito de Jesús"
+                placeholder="--Pepito de Jesús--"
                 name="name"
               />
             </label>
@@ -97,14 +97,14 @@ function App() {
               <input
                 className="w-11/12 px-4 py-2 mt-2 text-sm font-bold text-gray-400 border rounded-md focus:outline-none"
                 type="email"
-                placeholder="pepito@correo.com"
+                placeholder="--pepito@correo.com--"
                 name="email"
               />
             </label>
             <div className="text-center">
               <button
                 style={{ background: "#FF596B" }}
-                className="p-3 px-10 mt-6 mb-10 -ml-10 text-sm font-bold text-center text-white bg-red-400 rounded-full"
+                className="p-3 px-10 mt-6 mb-10 -ml-10 text-sm font-bold text-center text-white bg-red-400 rounded-full focus:outline-none"
               >
                 ENVIAR
               </button>
