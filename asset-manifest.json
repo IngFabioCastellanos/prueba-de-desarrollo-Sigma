@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/prueba-de-desarrollo-Sigma/static/css/main.3b76b84d.chunk.css",
-    "main.js": "/prueba-de-desarrollo-Sigma/static/js/main.9da12d5b.chunk.js",
-    "main.js.map": "/prueba-de-desarrollo-Sigma/static/js/main.9da12d5b.chunk.js.map",
+    "main.css": "/prueba-de-desarrollo-Sigma/static/css/main.c8494033.chunk.css",
+    "main.js": "/prueba-de-desarrollo-Sigma/static/js/main.7da0318e.chunk.js",
+    "main.js.map": "/prueba-de-desarrollo-Sigma/static/js/main.7da0318e.chunk.js.map",
     "runtime-main.js": "/prueba-de-desarrollo-Sigma/static/js/runtime-main.2e8643fe.js",
     "runtime-main.js.map": "/prueba-de-desarrollo-Sigma/static/js/runtime-main.2e8643fe.js.map",
     "static/js/2.7269664f.chunk.js": "/prueba-de-desarrollo-Sigma/static/js/2.7269664f.chunk.js",
     "static/js/2.7269664f.chunk.js.map": "/prueba-de-desarrollo-Sigma/static/js/2.7269664f.chunk.js.map",
     "index.html": "/prueba-de-desarrollo-Sigma/index.html",
-    "static/css/main.3b76b84d.chunk.css.map": "/prueba-de-desarrollo-Sigma/static/css/main.3b76b84d.chunk.css.map",
+    "static/css/main.c8494033.chunk.css.map": "/prueba-de-desarrollo-Sigma/static/css/main.c8494033.chunk.css.map",
     "static/js/2.7269664f.chunk.js.LICENSE.txt": "/prueba-de-desarrollo-Sigma/static/js/2.7269664f.chunk.js.LICENSE.txt",
     "static/media/sigma-image.95d581af.png": "/prueba-de-desarrollo-Sigma/static/media/sigma-image.95d581af.png"
   },
   "entrypoints": [
     "static/js/runtime-main.2e8643fe.js",
     "static/js/2.7269664f.chunk.js",
-    "static/css/main.3b76b84d.chunk.css",
-    "static/js/main.9da12d5b.chunk.js"
+    "static/css/main.c8494033.chunk.css",
+    "static/js/main.7da0318e.chunk.js"
   ]
 }
