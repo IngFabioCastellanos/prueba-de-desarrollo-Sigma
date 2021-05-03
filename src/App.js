@@ -46,7 +46,7 @@ function App() {
               Departamento*
               <br />
               <select
-                className="w-11/12 px-4 py-2 mt-2 mb-4 text-sm font-bold text-gray-400 bg-white border rounded-md focus:outline-none"
+                className="w-11/12 px-4 py-2 mt-2 mb-4 text-sm font-bold text-gray-400 bg-white border rounded-md focus:outline-none focus:border-gray-400"
                 name="state"
                 onChange={handlerChangeDepartments}
               >
@@ -63,7 +63,7 @@ function App() {
               Ciudad*
               <br />
               <select
-                className="w-11/12 px-4 py-2 mt-2 mb-4 text-sm font-bold text-gray-400 bg-white border rounded-md focus:outline-none"
+                className="w-11/12 px-4 py-2 mt-2 mb-4 text-sm font-bold text-gray-400 bg-white border rounded-md focus:outline-none focus:border-gray-400"
                 name="city"
               >
                 <option value="">--Seleccione--</option>
@@ -83,7 +83,7 @@ function App() {
               Nombre*
               <br />
               <input
-                className="w-11/12 px-4 py-2 mt-2 mb-4 text-sm font-bold text-gray-400 border rounded-md focus:outline-none"
+                className="w-11/12 px-4 py-2 mt-2 mb-4 text-sm font-bold text-gray-400 border rounded-md focus:outline-none focus:border-gray-400"
                 type="text"
                 placeholder="--Pepito de Jesús--"
                 name="name"
@@ -95,7 +95,7 @@ function App() {
               Correo*
               <br />
               <input
-                className="w-11/12 px-4 py-2 mt-2 text-sm font-bold text-gray-400 border rounded-md focus:outline-none"
+                className="w-11/12 px-4 py-2 mt-2 text-sm font-bold text-gray-400 border rounded-md focus:outline-none focus:border-gray-400"
                 type="email"
                 placeholder="--pepito@correo.com--"
                 name="email"
